@@ -1,6 +1,6 @@
 {
   "name": "btc-data-collector",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "NodeJS program that fetches BTC data from various APIs and stores them in a DB.",
   "main": "app/main.coffee",
   "scripts": {
