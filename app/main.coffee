@@ -1,1 +1,3 @@
-console.log 'Hello, world!'
+cron = require './cron'
+
+cron.schedule()
