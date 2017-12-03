@@ -1,0 +1,3 @@
+#!/bin/bash
+
+node_modules/.bin/nodemon --exec node_modules/.bin/coffee ./app/main.coffee

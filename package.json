@@ -1,0 +1,29 @@
+{
+  "name": "btc-data-collector",
+  "version": "0.0.0",
+  "description": "NodeJS program that fetches BTC data from various APIs and stores them in a DB.",
+  "main": "app/main.coffee",
+  "scripts": {
+    "start": "./bin/start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apielucha/btc-data-collector.git"
+  },
+  "keywords": [
+    "Bitcoin",
+    "API",
+    "data"
+  ],
+  "author": "Alexandre Pielucha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/apielucha/btc-data-collector/issues"
+  },
+  "homepage": "https://github.com/apielucha/btc-data-collector#readme",
+  "dependencies": {
+    "coffee-script": "^1.12.7",
+    "nodemon": "^1.12.1"
+  }
+}
